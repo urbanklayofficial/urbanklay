@@ -1,0 +1,2 @@
+# Netlify / Cloudflare Pages: product links from Instagram & Facebook Shop open the shop on that product
+/products/*  /index.html  200

@@ -1,0 +1,8 @@
+{
+  "name": "urban-klay-site",
+  "private": true,
+  "description": "Urban Klay website. Only needed if you change files in src/. The ready-to-upload site is already built.",
+  "scripts": { "build": "esbuild src/main.js --bundle --minify --format=iife --target=es2019 --outfile=js/app.js" },
+  "dependencies": { "gsap": "3.12.5", "lenis": "1.1.13", "three": "0.169.0" },
+  "devDependencies": { "esbuild": "0.24.0" }
+}

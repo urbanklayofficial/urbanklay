@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://urbanklay.netlify.app/sitemap.xml

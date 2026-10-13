@@ -1,0 +1,4 @@
+[build]
+  # The site is already built (js/app.js). Netlify just publishes the files as they are.
+  publish = "."
+  command = ""
